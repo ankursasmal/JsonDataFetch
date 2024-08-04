@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Summer Sale",
+      "description": "Get up to 50% off on all summer collections!",
+      "btnName": "Shop Now",
+      "btnColor":"white",
+      "btnText":"black",
+      "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/9/square.png"
+     },
+    {
+      "title": "Boost your Lead",
+      "description": "Human Ai is for Effective campaign.",
+      "btnName": "Learn More",
+      "btnColor":"#db8d27",
+      "btnText":"white",
+      "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+     },
+    {
+      "title": "Exclusive Deals",
+      "description": "Sign up for exclusive offers and discounts.",
+      "btnName": "Join Now",
+      "btnColor":"white",
+      "btnText":"black",
+      "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+     },
+    {
+      "title": "Exclusive Deals",
+      "description": "Sign up for exclusive offers and discounts.",
+      "btnName": "Join Now",
+      "btnColor":"rgb(247 41 151)",
+      "btnText":"black",
+      "image": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/15/square.png"
+     }
+  ]
+  
